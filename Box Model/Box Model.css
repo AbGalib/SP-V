@@ -1,0 +1,10 @@
+.box-model{
+    border: 10px solid grey;
+    margin: 20px;
+    padding: 10px;
+    padding-right: 2px;
+    background-color:darkgray;
+    padding: 5px 15px 3px 50px;
+}
+
+h1{text-align: center}
